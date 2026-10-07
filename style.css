@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.clear-fix{
+    clear: both;
+}
+.bar{
+    padding-top: 0px;
+    padding-right: 54.4px;
+    background-color: #353330;
+
+}
+h2{
+    font-size: 32px;
+    font-weight: 400;
+    font-family: "Alegreya";
+    color: rgb(48, 48, 48);
+    margin-bottom: 25px;
+}
+p{
+    font-size: 17px;
+    color: rgb(104, 104, 104);
+    font-family: "Alegreya Sans";
+    font-weight: 400px;
+    margin-bottom: 10px;
+}
+.home{
+    height: 700px;
+    background-image: url(./image/home.jpg);
+    background-size: 100% 100%;
+}
+
+.logo{
+    display: inline;
+    float: left;
+    margin: 20px 0px 0px 50px;
+}
+.logo img{
+    width: 200px;
+}
+.trans{
+    display: inline;
+    float: left;
+    color: white;
+    margin-top: 35px;
+    margin-left: 470px;
+}
+.trans ul{
+    list-style: none;
+    font-size: 18px;
+	font-family: "Alegreya";
+}
+.trans li{
+    display: inline;
+    padding: 10px;
+}
+
+.title{
+    text-align: center;
+    margin: auto;
+    margin-top: 165px;
+}
+.title h1{
+    font-size: 76px;
+    font-weight: 400;
+    font-family: "Alegreya";
+    color: white;
+}
+.title p{
+    font-size: 21px;
+    color: white;
+}
+.b1{
+    border-radius: 5px;
+    border: 2px;
+    border-style: solid;
+    padding: 20px;
+    border-color: #8e7754;
+    background-color: #8e7754;
+    margin-right: 10px;
+    color: white;
+}
+.b2{
+    border-radius: 5px;
+    border: 2px;
+    border-style: solid;
+    padding: 20px;
+    border-color: white;
+    background-color: transparent;
+    color: white;
+}
+
+.about-us{
+    margin-top: 85px; 
+    margin-bottom: 85px;
+}
+.bread{
+    display: inline;
+    float:left;
+}
+.bread img{
+    width: 500px;
+    margin-left: 100px;
+}
+.we{
+    display: inline;
+    float: left;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.we ul{
+    margin-top: 4px;
+    list-style: none;
+    color: rgb(104, 104, 104);
+    font-size: 17px;
+    font-weight: 400;
+    font-family: "Alegreya Sans";
+}
+.location{
+    background-color: whitesmoke;
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+.loc-t{
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.baker{
+    float: left;
+}
+.baker img{
+    width: 517px;
+    height: 413px;
+    margin-left: 70px;
+}
+.our-baking{
+    padding-top: 85px;
+    padding-bottom: 85px;
+    text-align: center;
+}
+.baking{
+    padding-top: 40px;
+    padding-left: 90px;
+}
+.baking img{
+    width: 345px;
+    height: 287.5px;
+}
+.baking-1{
+    float: left;
+    display: inline;
+    padding-right: 40px;
+}
+.baking-2{
+    padding-right:40px ;
+    float: left;
+    display: inline;
+}
+.baking-3{
+    float: left;
+    display: inline;
+}
+h3{
+    font-weight: 400;
+    font-size: 22px;
+    font-family: "Alegreya";
+    padding-top: 35px;
+}
+.contact{
+    background-color: whitesmoke;
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+.info{
+    float: left;
+    display: inline;
+    padding-top: 25px;
+    margin-left: 85px;
+}
+.map{
+    float: left;
+    display: inline;
+    margin-left: 70px;
+}
+.map iframe{
+    width: 545px;
+    height: 570px;
+}
+.contact ul{
+    margin-top: 4px;
+    list-style: none;
+    color: rgb(104, 104, 104);
+    font-size: 17px;
+    font-weight: 400;
+    font-family: "Alegreya Sans";
+}
+.information{
+    padding-top: 35px;
+    padding-bottom: 52px;
+    background-color: #403d38;
+    padding-left: 90px;
+}
+.information h3{
+    color: white;
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+.information ul{
+    color: rgb(121, 121, 121);
+    list-style:disc;
+    font-size: 15px;
+}
+.information li{
+    padding-bottom: 20px;
+}
+.information p{
+    color: rgb(121, 121, 121);
+}
+.information hr{
+    color: rgb(85, 85, 85);
+}
+.a-u{
+    float: left;
+    display: inline;
+    padding-right: 30px;
+}
+.w-s{
+    float: left;
+    display: inline;
+    padding-right: 30px;
+
+}
+.o-h{
+    float: left;
+    display: inline;
+    padding-right: 30px;
+
+}
+.c-d{
+    float: left;
+    display: inline;
+    padding-right: 30px;
+}
+.last-section{
+    background-color: #353330;
+    color:  #797979;
+    padding-top: 50px;
+    padding-bottom: 85px;
+    text-align: center;
+}
+.logo-1{
+    padding-bottom: 31px;
+    margin: auto;
+}
